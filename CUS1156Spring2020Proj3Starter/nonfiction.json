@@ -1,0 +1,1939 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 30,
+  "last_modified": "2020-04-09T01:02:08-04:00",
+  "results": {
+    "list_name": "Paperback Nonfiction",
+    "list_name_encoded": "paperback-nonfiction",
+    "bestsellers_date": "2020-04-04",
+    "published_date": "2020-04-19",
+    "published_date_description": "latest",
+    "next_published_date": "",
+    "previous_published_date": "2020-04-12",
+    "display_name": "Paperback Nonfiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0525563482",
+        "primary_isbn13": "9780525563488",
+        "publisher": "Vintage",
+        "description": "Comedic essays by an author and blogger who splits her time between Hollywood meetings and living in a liberal suburban town in a red state.",
+        "price": 0,
+        "title": "WOW, NO THANK YOU",
+        "author": "Samantha Ir",
+        "contributor": "by Samantha Irby",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780525563488.jpg",
+        "book_image_width": 324,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0525563482?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0525563482",
+            "isbn13": "9780525563488"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/0525563482?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=WOW%2C+NO+THANK+YOU&author=Samantha+Ir"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525563488"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWOW%252C%2BNO%2BTHANK%2BYOU%2FSamantha%2BIr%2F9780525563488"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780525563488"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/691c9258-b46c-50ad-99be-5993c07aba4d"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "weeks_on_list": 99,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0062316117",
+        "primary_isbn13": "9780062316110",
+        "publisher": "Harper Perennial",
+        "description": "How Homo sapiens became Earth\u2019s dominant species.",
+        "price": 0,
+        "title": "SAPIENS",
+        "author": "Yuval Noah Harari",
+        "contributor": "by Yuval Noah Harari",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780062316097.jpg",
+        "book_image_width": 128,
+        "book_image_height": 192,
+        "amazon_product_url": "http:\/\/www.amazon.com\/Sapiens-A-Brief-History-Humankind-ebook\/dp\/B00ICN066A?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062316095",
+            "isbn13": "9780062316097"
+          },
+          {
+            "isbn10": "0062316109",
+            "isbn13": "9780062316103"
+          },
+          {
+            "isbn10": "0062796232",
+            "isbn13": "9780062796233"
+          },
+          {
+            "isbn10": "1494576902",
+            "isbn13": "9781494576905"
+          },
+          {
+            "isbn10": "0062316117",
+            "isbn13": "9780062316110"
+          },
+          {
+            "isbn10": "1494506904",
+            "isbn13": "9781494506902"
+          },
+          {
+            "isbn10": "1494556901",
+            "isbn13": "9781494556907"
+          },
+          {
+            "isbn10": "1473523788",
+            "isbn13": "9781473523784"
+          },
+          {
+            "isbn10": "1538456583",
+            "isbn13": "9781538456583"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http:\/\/www.amazon.com\/Sapiens-A-Brief-History-Humankind-ebook\/dp\/B00ICN066A?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=SAPIENS&author=Yuval+Noah+Harari"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062316110"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSAPIENS%2FYuval%2BNoah%2BHarari%2F9780062316110"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780062316110"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/8396e181-cd69-5074-a009-ec8f051c54f2"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 4,
+        "weeks_on_list": 199,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "081298496X",
+        "primary_isbn13": "9780812984965",
+        "publisher": "Spiegel & Grau",
+        "description": "A civil rights lawyer and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+        "price": 0,
+        "title": "JUST MERCY",
+        "author": "Bryan Stevenson",
+        "contributor": "by Bryan Stevenson",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780812994520.jpg",
+        "book_image_width": 128,
+        "book_image_height": 193,
+        "amazon_product_url": "http:\/\/www.amazon.com\/Just-Mercy-Story-Justice-Redemption-ebook\/dp\/B00JYWVYLY?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "https:\/\/www.nytimes.com\/2014\/10\/19\/books\/review\/just-mercy-by-bryan-stevenson.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0812994523",
+            "isbn13": "9780812994520"
+          },
+          {
+            "isbn10": "0553550608",
+            "isbn13": "9780553550603"
+          },
+          {
+            "isbn10": "1925113574",
+            "isbn13": "9781925113570"
+          },
+          {
+            "isbn10": "081298496X",
+            "isbn13": "9780812984965"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http:\/\/www.amazon.com\/Just-Mercy-Story-Justice-Redemption-ebook\/dp\/B00JYWVYLY?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=JUST+MERCY&author=Bryan+Stevenson"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780812984965"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJUST%2BMERCY%2FBryan%2BStevenson%2F9780812984965"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780812984965"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/cd6d25c8-a6f0-55a4-b322-e8eb0dbb5fb3"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 1,
+        "weeks_on_list": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0143036491",
+        "primary_isbn13": "9780143036494",
+        "publisher": "Penguin",
+        "description": "An overview of the 1918 flu epidemic and cautionary tale for similar kinds of large-scale outbreaks.",
+        "price": 0,
+        "title": "THE GREAT INFLUENZA",
+        "author": "John M Barry",
+        "contributor": "by John M. Barry",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780143036494.jpg",
+        "book_image_width": 321,
+        "book_image_height": 495,
+        "amazon_product_url": "http:\/\/www.amazon.com\/The-Great-Influenza-Deadliest-Pandemic\/dp\/0143036491?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "https:\/\/www.nytimes.com\/2004\/03\/14\/books\/review\/14GEWENT.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0143036491",
+            "isbn13": "9780143036494"
+          },
+          {
+            "isbn10": "1101200979",
+            "isbn13": "9781101200971"
+          },
+          {
+            "isbn10": "0786581794",
+            "isbn13": "9780786581795"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http:\/\/www.amazon.com\/The-Great-Influenza-Deadliest-Pandemic\/dp\/0143036491?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=THE+GREAT+INFLUENZA&author=John+M+Barry"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780143036494"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGREAT%2BINFLUENZA%2FJohn%2BM%2BBarry%2F9780143036494"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780143036494"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/2d3e0ec6-c711-5fc4-9a79-8d6d363b28f3"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 6,
+        "weeks_on_list": 60,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0399588191",
+        "primary_isbn13": "9780399588198",
+        "publisher": "Spiegel & Grau",
+        "description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+        "price": 0,
+        "title": "BORN A CRIME",
+        "author": "Trevor Noah",
+        "contributor": "by Trevor Noah",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780399588181.jpg",
+        "book_image_width": 326,
+        "book_image_height": 495,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Born-Crime-Stories-African-Childhood-ebook\/dp\/B01DHWACVY?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0399588175",
+            "isbn13": "9780399588174"
+          },
+          {
+            "isbn10": "0399588183",
+            "isbn13": "9780399588181"
+          },
+          {
+            "isbn10": "1531865038",
+            "isbn13": "9781531865030"
+          },
+          {
+            "isbn10": "1531865046",
+            "isbn13": "9781531865047"
+          },
+          {
+            "isbn10": "0399588191",
+            "isbn13": "9780399588198"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Born-Crime-Stories-African-Childhood-ebook\/dp\/B01DHWACVY?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=BORN+A+CRIME&author=Trevor+Noah"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399588198"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBORN%2BA%2BCRIME%2FTrevor%2BNoah%2F9780399588198"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780399588198"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/c82bc1ff-7305-5acf-b948-a4163f03e2bc"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 5,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0307279286",
+        "primary_isbn13": "9780307279286",
+        "publisher": "Anchor",
+        "description": "A look at the conflict in Northern Ireland known as the Troubles.",
+        "price": 0,
+        "title": "SAY NOTHING",
+        "author": "Patrick Radden Keefe",
+        "contributor": "by Patrick Radden Keefe",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780385521314.jpg",
+        "book_image_width": 326,
+        "book_image_height": 495,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Say-Nothing-Murder-Northern-Ireland\/dp\/0385521316?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https:\/\/www.nytimes.com\/2019\/02\/22\/books\/review\/say-nothing-patrick-radden-keefe.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0385521316",
+            "isbn13": "9780385521314"
+          },
+          {
+            "isbn10": "0385543379",
+            "isbn13": "9780385543378"
+          },
+          {
+            "isbn10": "1984883216",
+            "isbn13": "9781984883216"
+          },
+          {
+            "isbn10": "0307279286",
+            "isbn13": "9780307279286"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Say-Nothing-Murder-Northern-Ireland\/dp\/0385521316?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=SAY+NOTHING&author=Patrick+Radden+Keefe"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780307279286"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSAY%2BNOTHING%2FPatrick%2BRadden%2BKeefe%2F9780307279286"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780307279286"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/f52dd69c-406d-5174-8cdf-8594d1902b26"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 3,
+        "weeks_on_list": 76,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0143127748",
+        "primary_isbn13": "9780143127741",
+        "publisher": "Penguin",
+        "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+        "price": 0,
+        "title": "THE BODY KEEPS THE SCORE",
+        "author": "Bessel van der Kolk",
+        "contributor": "by Bessel van der Kolk",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780670785933.jpg",
+        "book_image_width": 128,
+        "book_image_height": 193,
+        "amazon_product_url": "http:\/\/www.amazon.com\/The-Body-Keeps-Score-Healing\/dp\/0670785938?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0670785938",
+            "isbn13": "9780670785933"
+          },
+          {
+            "isbn10": "0143127748",
+            "isbn13": "9780143127741"
+          },
+          {
+            "isbn10": "1469092352",
+            "isbn13": "9781469092355"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http:\/\/www.amazon.com\/The-Body-Keeps-Score-Healing\/dp\/0670785938?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=THE+BODY+KEEPS+THE+SCORE&author=Bessel+van+der+Kolk"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780143127741"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBODY%2BKEEPS%2BTHE%2BSCORE%2FBessel%2Bvan%2Bder%2BKolk%2F9780143127741"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780143127741"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/e3e33e9d-0e67-5fec-b0d2-2ecddc38ce0e"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 7,
+        "weeks_on_list": 7,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0393357457",
+        "primary_isbn13": "9780393357455",
+        "publisher": "Norton",
+        "description": "How the Trump administration staffs its federal agencies.",
+        "price": 0,
+        "title": "THE FIFTH RISK",
+        "author": "Michael Lewis",
+        "contributor": "by Michael Lewis",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781324002642.jpg",
+        "book_image_width": 330,
+        "book_image_height": 495,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Fifth-Risk-Michael-Lewis\/dp\/1324002646?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https:\/\/www.nytimes.com\/2018\/10\/08\/books\/review\/michael-lewis-fifth-risk.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1324002646",
+            "isbn13": "9781324002642"
+          },
+          {
+            "isbn10": "1324002654",
+            "isbn13": "9781324002659"
+          },
+          {
+            "isbn10": "0393357457",
+            "isbn13": "9780393357455"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Fifth-Risk-Michael-Lewis\/dp\/1324002646?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=THE+FIFTH+RISK&author=Michael+Lewis"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780393357455"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFIFTH%2BRISK%2FMichael%2BLewis%2F9780393357455"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780393357455"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/60bb2962-3b6a-5a7c-9071-e7c67073dcee"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0735225311",
+        "primary_isbn13": "9780735225312",
+        "publisher": "Penguin",
+        "description": "The true story of a Baltimore socialite who joined a spy organization during World War II and became essential to the French Resistance.",
+        "price": 0,
+        "title": "A WOMAN OF NO IMPORTANCE",
+        "author": "Sonia Purnell",
+        "contributor": "by Sonia Purnell",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780735225299.jpg",
+        "book_image_width": 328,
+        "book_image_height": 495,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Woman-No-Importance-Untold-American\/dp\/073522529X?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https:\/\/www.nytimes.com\/2019\/05\/24\/books\/review\/sonia-purnell-woman-no-importance-virginia-hall.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "073522529X",
+            "isbn13": "9780735225299"
+          },
+          {
+            "isbn10": "0735225311",
+            "isbn13": "9780735225312"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Woman-No-Importance-Untold-American\/dp\/073522529X?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=A+WOMAN+OF+NO+IMPORTANCE&author=Sonia+Purnell"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735225312"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BWOMAN%2BOF%2BNO%2BIMPORTANCE%2FSonia%2BPurnell%2F9780735225312"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780735225312"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/4f3b65b7-346d-5d48-8001-3e6b2d9f4606"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 8,
+        "weeks_on_list": 320,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316017930",
+        "primary_isbn13": "9780316017930",
+        "publisher": "Back Bay\/Little, Brown",
+        "description": "Unexpected factors that explain why some people succeed, such as upbringing, timing and 10,000 hours of deliberate practice.",
+        "price": 0,
+        "title": "OUTLIERS",
+        "author": "Malcolm Gladwell",
+        "contributor": "by Malcolm Gladwell",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780316017930.jpg",
+        "book_image_width": 184,
+        "book_image_height": 280,
+        "amazon_product_url": "http:\/\/www.amazon.com\/Outliers-Story-Success-Malcolm-Gladwell\/dp\/0316017930?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https:\/\/www.nytimes.com\/2008\/11\/18\/books\/18kaku.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "https:\/\/www.nytimes.com\/2008\/11\/30\/books\/review\/Leonhardt-t.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316017922",
+            "isbn13": "9780316017923"
+          },
+          {
+            "isbn10": "0316040347",
+            "isbn13": "9780316040341"
+          },
+          {
+            "isbn10": "0316017930",
+            "isbn13": "9780316017930"
+          },
+          {
+            "isbn10": "1600243916",
+            "isbn13": "9781600243912"
+          },
+          {
+            "isbn10": "031602497X",
+            "isbn13": "9780316024976"
+          },
+          {
+            "isbn10": "1600243924",
+            "isbn13": "9781600243929"
+          },
+          {
+            "isbn10": "0606324275",
+            "isbn13": "9780606324274"
+          },
+          {
+            "isbn10": "1611133440",
+            "isbn13": "9781611133448"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http:\/\/www.amazon.com\/Outliers-Story-Success-Malcolm-Gladwell\/dp\/0316017930?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=OUTLIERS&author=Malcolm+Gladwell"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316017930"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOUTLIERS%2FMalcolm%2BGladwell%2F9780316017930"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780316017930"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/f91e18c2-0d6a-55fb-962e-f09204a77836"
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 9,
+        "weeks_on_list": 244,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0374533555",
+        "primary_isbn13": "9780374533557",
+        "publisher": "Farrar, Straus & Giroux",
+        "description": "When we can and cannot trust our intuitions in making business and personal decisions.",
+        "price": 0,
+        "title": "THINKING, FAST AND SLOW",
+        "author": "Daniel Kahneman",
+        "contributor": "by Daniel Kahneman",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781429969352.jpg",
+        "book_image_width": 330,
+        "book_image_height": 490,
+        "amazon_product_url": "http:\/\/www.amazon.com\/Thinking-Fast-Slow-Daniel-Kahneman-ebook\/dp\/B00555X8OA?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https:\/\/www.nytimes.com\/2011\/11\/27\/books\/review\/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "https:\/\/www.nytimes.com\/2011\/11\/27\/books\/review\/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0374275637",
+            "isbn13": "9780374275631"
+          },
+          {
+            "isbn10": "0739357980",
+            "isbn13": "9780739357989"
+          },
+          {
+            "isbn10": "0374533555",
+            "isbn13": "9780374533557"
+          },
+          {
+            "isbn10": "0606275649",
+            "isbn13": "9780606275644"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http:\/\/www.amazon.com\/Thinking-Fast-Slow-Daniel-Kahneman-ebook\/dp\/B00555X8OA?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=THINKING%2C+FAST+AND+SLOW&author=Daniel+Kahneman"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780374533557"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHINKING%252C%2BFAST%2BAND%2BSLOW%2FDaniel%2BKahneman%2F9780374533557"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780374533557"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/1e1ffccd-d526-5154-84de-1628b31454e9"
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 15,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1571313567",
+        "primary_isbn13": "9781571313560",
+        "publisher": "Milkweed Editions",
+        "description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+        "price": 0,
+        "title": "BRAIDING SWEETGRASS",
+        "author": "Robin Wall Kimmerer",
+        "contributor": "by Robin Wall Kimmerer",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781571313560.jpg",
+        "book_image_width": 321,
+        "book_image_height": 495,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge\/dp\/1571313567?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1571313567",
+            "isbn13": "9781571313560"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge\/dp\/1571313567?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=BRAIDING+SWEETGRASS&author=Robin+Wall+Kimmerer"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781571313560"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBRAIDING%2BSWEETGRASS%2FRobin%2BWall%2BKimmerer%2F9781571313560"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9781571313560"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/194ea111-42ad-5795-9fb5-3e155ffa5e79"
+      },
+      {
+        "rank": 13,
+        "rank_last_week": 0,
+        "weeks_on_list": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1982148209",
+        "primary_isbn13": "9781982148201",
+        "publisher": "Simon & Schuster",
+        "description": "A woman breaks free of the Satmar Hasidic community in Brooklyn in which she was raised.",
+        "price": 0,
+        "title": "UNORTHODOX",
+        "author": "Deborah Feldman",
+        "contributor": "by Deborah Feldman",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781439187012.jpg",
+        "book_image_width": 328,
+        "book_image_height": 495,
+        "amazon_product_url": "http:\/\/www.amazon.com\/Unorthodox-Scandalous-Rejection-Hasidic-Roots\/dp\/1439187010?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1439187002",
+            "isbn13": "9781439187005"
+          },
+          {
+            "isbn10": "1439187029",
+            "isbn13": "9781439187029"
+          },
+          {
+            "isbn10": "1439187010",
+            "isbn13": "9781439187012"
+          },
+          {
+            "isbn10": "1982148209",
+            "isbn13": "9781982148201"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http:\/\/www.amazon.com\/Unorthodox-Scandalous-Rejection-Hasidic-Roots\/dp\/1439187010?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=UNORTHODOX&author=Deborah+Feldman"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982148201"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUNORTHODOX%2FDeborah%2BFeldman%2F9781982148201"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9781982148201"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/f0a9154b-6e85-5f14-b41c-0914a73c8e7e"
+      },
+      {
+        "rank": 14,
+        "rank_last_week": 12,
+        "weeks_on_list": 17,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1476740194",
+        "primary_isbn13": "9781476740195",
+        "publisher": "Simon & Schuster",
+        "description": "The story of the 1986 fire at the Los Angeles Public Library provides a backdrop to the evolution and purpose of libraries.",
+        "price": 0,
+        "title": "THE LIBRARY BOOK",
+        "author": "Susan Orlean",
+        "contributor": "by Susan Orlean",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781476740188.jpg",
+        "book_image_width": 330,
+        "book_image_height": 482,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Library-Book-Susan-Orlean\/dp\/1476740186?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https:\/\/www.nytimes.com\/2018\/10\/15\/books\/review\/susan-orlean-library-book.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476740186",
+            "isbn13": "9781476740188"
+          },
+          {
+            "isbn10": "1432856464",
+            "isbn13": "9781432856465"
+          },
+          {
+            "isbn10": "1476740208",
+            "isbn13": "9781476740201"
+          },
+          {
+            "isbn10": "1508266476",
+            "isbn13": "9781508266471"
+          },
+          {
+            "isbn10": "1476740194",
+            "isbn13": "9781476740195"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Library-Book-Susan-Orlean\/dp\/1476740186?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=THE+LIBRARY+BOOK&author=Susan+Orlean"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781476740195"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLIBRARY%2BBOOK%2FSusan%2BOrlean%2F9781476740195"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9781476740195"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/8da710d0-1494-5181-a224-893d452a8750"
+      },
+      {
+        "rank": 15,
+        "rank_last_week": 11,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1501134639",
+        "primary_isbn13": "9781501134630",
+        "publisher": "Simon & Schuster",
+        "description": "An account of the 1986 disaster at the Chernobyl nuclear power plant, based on hundreds of hours of interviews.",
+        "price": 0,
+        "title": "MIDNIGHT IN CHERNOBYL",
+        "author": "Adam Higginbotham",
+        "contributor": "by Adam Higginbotham",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781501134647.jpg",
+        "book_image_width": 328,
+        "book_image_height": 495,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Midnight-Chernobyl-Greatest-Nuclear-Disaster-ebook\/dp\/B07GNV7PNH?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501134647",
+            "isbn13": "9781501134647"
+          },
+          {
+            "isbn10": "1501134612",
+            "isbn13": "9781501134616"
+          },
+          {
+            "isbn10": "1508278539",
+            "isbn13": "9781508278535"
+          },
+          {
+            "isbn10": "1501134639",
+            "isbn13": "9781501134630"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Midnight-Chernobyl-Greatest-Nuclear-Disaster-ebook\/dp\/B07GNV7PNH?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=MIDNIGHT+IN+CHERNOBYL&author=Adam+Higginbotham"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501134630"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMIDNIGHT%2BIN%2BCHERNOBYL%2FAdam%2BHigginbotham%2F9781501134630"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9781501134630"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/1ccc235e-0d57-5361-9b1a-4aa858d6ac03"
+      },
+      {
+      "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0385348711",
+        "primary_isbn13": "9780385348713",
+        "publisher": "Crown",
+        "description": "An examination of the leadership of the prime minister Winston Churchill.",
+        "price": 0,
+        "title": "THE SPLENDID AND THE VILE",
+        "author": "Erik Larson",
+        "contributor": "by Erik Larson",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780385348713.jpg",
+        "book_image_width": 326,
+        "book_image_height": 495,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Splendid-Vile-Churchill-Family-Defiance\/dp\/0385348711?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https:\/\/www.nytimes.com\/2020\/02\/25\/books\/review\/the-splendid-and-the-vile-erik-larson.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0385348711",
+            "isbn13": "9780385348713"
+          },
+          {
+            "isbn10": "059323717X",
+            "isbn13": "9780593237175"
+          },
+          {
+            "isbn10": "0593167163",
+            "isbn13": "9780593167168"
+          },
+          {
+            "isbn10": "0593172078",
+            "isbn13": "9780593172070"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Splendid-Vile-Churchill-Family-Defiance\/dp\/0385348711?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=THE+SPLENDID+AND+THE+VILE&author=Erik+Larson"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385348713"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSPLENDID%2BAND%2BTHE%2BVILE%2FErik%2BLarson%2F9780385348713"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780385348713"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/2638bb79-ff38-5448-b2af-7b6f33f05de0"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 2,
+        "weeks_on_list": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1984801252",
+        "primary_isbn13": "9781984801258",
+        "publisher": "Dial",
+        "description": "The activist and public speaker describes her journey of listening to her inner voice.",
+        "price": 0,
+        "title": "UNTAMED",
+        "author": "Glennon Doyle",
+        "contributor": "by Glennon Doyle",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781984801258.jpg",
+        "book_image_width": 330,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1984801252?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1984801252",
+            "isbn13": "9781984801258"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/1984801252?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=UNTAMED&author=Glennon+Doyle"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984801258"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUNTAMED%2FGlennon%2BDoyle%2F9781984801258"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9781984801258"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/fbeeab6c-34bb-5c38-8f27-9fc3ced2ff01"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1250153298",
+        "primary_isbn13": "9781250153296",
+        "publisher": "Flatiron",
+        "description": "The Grammy Award-winning musician retraces her path to discovering her own worth.",
+        "price": 0,
+        "title": "MORE MYSELF",
+        "author": "Alicia Keys with Michelle Burford",
+        "contributor": "by Alicia Keys with Michelle Burford",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781250153296.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1250153298?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250153298",
+            "isbn13": "9781250153296"
+          },
+          {
+            "isbn10": "1250153301",
+            "isbn13": "9781250153302"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/1250153298?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=MORE+MYSELF&author=Alicia+Keys+with+Michelle+Burford"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250153296"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMORE%2BMYSELF%2FAlicia%2BKeys%2Bwith%2BMichelle%2BBurford%2F9781250153296"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9781250153296"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/ac70cae7-e9ba-573f-873c-632be5da758c"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1524745626",
+        "primary_isbn13": "9781524745622",
+        "publisher": "Dutton",
+        "description": "The ABC News chief White House correspondent gives his perspective on our current president and describes the shifts within their relationship.",
+        "price": 0,
+        "title": "FRONT ROW AT THE TRUMP SHOW",
+        "author": "Jonathan Karl",
+        "contributor": "by Jonathan Karl",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781524745646.jpg",
+        "book_image_width": 332,
+        "book_image_height": 499,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Front-Row-at-Trump-Show\/dp\/1524745626?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1524745626",
+            "isbn13": "9781524745622"
+          },
+          {
+            "isbn10": "1524745642",
+            "isbn13": "9781524745646"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Front-Row-at-Trump-Show\/dp\/1524745626?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=FRONT+ROW+AT+THE+TRUMP+SHOW&author=Jonathan+Karl"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524745622"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFRONT%2BROW%2BAT%2BTHE%2BTRUMP%2BSHOW%2FJonathan%2BKarl%2F9781524745622"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9781524745622"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/bd40c750-ed0c-5739-88ac-df6e9f7a78c2"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 3,
+        "weeks_on_list": 111,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0399590501",
+        "primary_isbn13": "9780399590504",
+        "publisher": "Random House",
+        "description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+        "price": 0,
+        "title": "EDUCATED",
+        "author": "Tara Westover",
+        "contributor": "by Tara Westover",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780399590504.jpg",
+        "book_image_width": 328,
+        "book_image_height": 495,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Educated-Memoir-Tara-Westover\/dp\/0399590501?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https:\/\/www.nytimes.com\/2018\/03\/01\/books\/review\/tara-westover-educated.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0399590501",
+            "isbn13": "9780399590504"
+          },
+          {
+            "isbn10": "039959051X",
+            "isbn13": "9780399590511"
+          },
+          {
+            "isbn10": "0525589988",
+            "isbn13": "9780525589983"
+          },
+          {
+            "isbn10": "0525528059",
+            "isbn13": "9780525528050"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Educated-Memoir-Tara-Westover\/dp\/0399590501?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=EDUCATED&author=Tara+Westover"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399590504"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEDUCATED%2FTara%2BWestover%2F9780399590504"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780399590504"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/08c80da5-f436-5afd-b925-42fe6f0c28cc"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 6,
+        "weeks_on_list": 16,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0374201234",
+        "primary_isbn13": "9780374201234",
+        "publisher": "Melcher\/MCD\/Farrar, Straus & Giroux",
+        "description": "Various skills and techniques used on the court by the late Los Angeles Lakers player.",
+        "price": 0,
+        "title": "THE MAMBA MENTALITY",
+        "author": "Kobe Bryant",
+        "contributor": "by Kobe Bryant",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780374201234.jpg",
+        "book_image_width": 330,
+        "book_image_height": 397,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Mamba-Mentality-How-Play\/dp\/0374201234?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0374201234",
+            "isbn13": "9780374201234"
+          },
+          {
+            "isbn10": "0374719152",
+            "isbn13": "9780374719159"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Mamba-Mentality-How-Play\/dp\/0374201234?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=THE+MAMBA+MENTALITY&author=Kobe+Bryant"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780374201234"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BMAMBA%2BMENTALITY%2FKobe%2BBryant%2F9780374201234"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780374201234"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/39d8b459-5a18-5e7d-b04c-8bda98c296aa"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1982139382",
+        "primary_isbn13": "9781982139384",
+        "publisher": "Gallery",
+        "description": "A memoir by a former N.F.L. player and reality TV star of \u201cThe Bachelor\u201d and \u201cThe Bachelorette.\u201d",
+        "price": 0,
+        "title": "THE FIRST TIME",
+        "author": "Colton Underwood",
+        "contributor": "by Colton Underwood",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781982139384.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1982139382?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1982139382",
+            "isbn13": "9781982139384"
+          },
+          {
+            "isbn10": "1982139404",
+            "isbn13": "9781982139407"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/1982139382?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=THE+FIRST+TIME&author=Colton+Underwood"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982139384"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFIRST%2BTIME%2FColton%2BUnderwood%2F9781982139384"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9781982139384"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/e1f8f569-42e3-5838-8ee2-9351c6c32fd2"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 7,
+        "weeks_on_list": 69,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1524763136",
+        "primary_isbn13": "9781524763138",
+        "publisher": "Crown",
+        "description": "The former first lady describes how she balanced work, family and her husband\u2019s political ascent.",
+        "price": 0,
+        "title": "BECOMING",
+        "author": "Michelle Obama",
+        "contributor": "by Michelle Obama",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781524763138.jpg",
+        "book_image_width": 326,
+        "book_image_height": 495,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Becoming-Michelle-Obama\/dp\/1524763136?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https:\/\/www.nytimes.com\/2018\/12\/06\/books\/review\/michelle-obama-becoming-memoir.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "None",
+            "isbn13": "9780143177289"
+          },
+          {
+            "isbn10": "1524763136",
+            "isbn13": "9781524763138"
+          },
+          {
+            "isbn10": "0525633677",
+            "isbn13": "9780525633679"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Becoming-Michelle-Obama\/dp\/1524763136?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=BECOMING&author=Michelle+Obama"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524763138"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBECOMING%2FMichelle%2BObama%2F9781524763138"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9781524763138"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/2892bc2e-4ad3-5e0a-bc6e-d2cd983c3c52"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 8,
+        "weeks_on_list": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0062899961",
+        "primary_isbn13": "9780062899965",
+        "publisher": "Dey St.",
+        "description": "The singer, actress and fashion designer discloses times of success, trauma and addiction.",
+        "price": 0,
+        "title": "OPEN BOOK",
+        "author": "Jessica Simpson with Kevin Carr O\u2019Leary",
+        "contributor": "by Jessica Simpson with Kevin Carr O\u2019Leary",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780062899965.jpg",
+        "book_image_width": 326,
+        "book_image_height": 495,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Open-Book-Jessica-Simpson\/dp\/0062899961?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062899961",
+            "isbn13": "9780062899965"
+          },
+          {
+            "isbn10": "0062899988",
+            "isbn13": "9780062899989"
+          },
+          {
+            "isbn10": "0062905007",
+            "isbn13": "9780062905000"
+          },
+          {
+            "isbn10": "1094028223",
+            "isbn13": "9781094028224"
+          },
+          {
+            "isbn10": "1094028215",
+            "isbn13": "9781094028217"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Open-Book-Jessica-Simpson\/dp\/0062899961?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=OPEN+BOOK&author=Jessica+Simpson+with+Kevin+Carr+O%E2%80%99Leary"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062899965"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOPEN%2BBOOK%2FJessica%2BSimpson%2Bwith%2BKevin%2BCarr%2BO%25E2%2580%2599Leary%2F9780062899965"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780062899965"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/560ab055-ce87-55a0-bf46-137ecc774a2a"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 5,
+        "weeks_on_list": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1524744972",
+        "primary_isbn13": "9781524744977",
+        "publisher": "Dutton",
+        "description": "An oral history of the sitcom from its beginnings on the BBC through its nine-season run on American network TV.",
+        "price": 0,
+        "title": "THE OFFICE",
+        "author": "Andy Greene",
+        "contributor": "by Andy Greene",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781524744977.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1524744972?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1524744972",
+            "isbn13": "9781524744977"
+          },
+          {
+            "isbn10": "1524744999",
+            "isbn13": "9781524744991"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/1524744972?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=THE+OFFICE&author=Andy+Greene"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524744977"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BOFFICE%2FAndy%2BGreene%2F9781524744977"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9781524744977"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/3dde61e8-8496-5756-9d7d-212c014f9393"
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1982142049",
+        "primary_isbn13": "9781982142049",
+        "publisher": "Simon & Schuster",
+        "description": "The founder of Kentucky Sports Radio makes his case that the Senate majority leader, Mitch McConnell, should be voted out of office.",
+        "price": 0,
+        "title": "MITCH, PLEASE!",
+        "author": "Matt Jones with Chris Tomlin",
+        "contributor": "by Matt Jones with Chris Tomlin",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781982142049.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1982142049?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1982142049",
+            "isbn13": "9781982142049"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/1982142049?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=MITCH%2C+PLEASE%21&author=Matt+Jones+with+Chris+Tomlin"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982142049"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMITCH%252C%2BPLEASE%2521%2FMatt%2BJones%2Bwith%2BChris%2BTomlin%2F9781982142049"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9781982142049"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/b6a9c624-0b7b-56bd-ab19-d3ea09d056de"
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 10,
+        "weeks_on_list": 30,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316478520",
+        "primary_isbn13": "9780316478526",
+        "publisher": "Little, Brown",
+        "description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+        "price": 0,
+        "title": "TALKING TO STRANGERS",
+        "author": "Malcolm Gladwell",
+        "contributor": "by Malcolm Gladwell",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780316478526.jpg",
+        "book_image_width": 330,
+        "book_image_height": 491,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Talking-Strangers-Should-about-People\/dp\/0316478520?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https:\/\/www.nytimes.com\/2019\/09\/04\/books\/review-talking-to-strangers-malcolm-gladwell.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316478520",
+            "isbn13": "9780316478526"
+          },
+          {
+            "isbn10": "0316535575",
+            "isbn13": "9780316535571"
+          },
+          {
+            "isbn10": "0316535621",
+            "isbn13": "9780316535625"
+          },
+          {
+            "isbn10": "1549150340",
+            "isbn13": "9781549150340"
+          },
+          {
+            "isbn10": "1549150332",
+            "isbn13": "9781549150333"
+          },
+          {
+            "isbn10": "1549100025",
+            "isbn13": "9781549100024"
+          },
+          {
+            "isbn10": "1549100017",
+            "isbn13": "9781549100017"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Talking-Strangers-Should-about-People\/dp\/0316478520?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=TALKING+TO+STRANGERS&author=Malcolm+Gladwell"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316478526"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTALKING%2BTO%2BSTRANGERS%2FMalcolm%2BGladwell%2F9780316478526"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780316478526"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/b3a4a570-37de-54bd-97de-8dbd6775a663"
+      },
+      {
+        "rank": 13,
+        "rank_last_week": 4,
+        "weeks_on_list": 2,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0306846365",
+        "primary_isbn13": "9780306846366",
+        "publisher": "Hachette",
+        "description": "A memoir that provides a look into the royal family by a lady-in-waiting to Princess Margaret.",
+        "price": 0,
+        "title": "LADY IN WAITING",
+        "author": "Anne Glenconner",
+        "contributor": "by Anne Glenconner",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9780306846366.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0306846365?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0306846365",
+            "isbn13": "9780306846366"
+          },
+          {
+            "isbn10": "0306846357",
+            "isbn13": "9780306846359"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/0306846365?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=LADY+IN+WAITING&author=Anne+Glenconner"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780306846366"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLADY%2BIN%2BWAITING%2FAnne%2BGlenconner%2F9780306846366"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9780306846366"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/5de27b71-b95b-5984-959e-a484ca70d8c7"
+      },
+      {
+        "rank": 14,
+        "rank_last_week": 9,
+        "weeks_on_list": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1984878255",
+        "primary_isbn13": "9781984878250",
+        "publisher": "Pamela Dorman",
+        "description": "Stories, interviews and reflections on the act of letting go of resentment.",
+        "price": 0,
+        "title": "THE GIFT OF FORGIVENESS",
+        "author": "Katherine Schwarzenegger Pratt",
+        "contributor": "by Katherine Schwarzenegger Pratt",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781984878250.jpg",
+        "book_image_width": 338,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1984878255?tag=NYTBSREV-20&tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1984878255",
+            "isbn13": "9781984878250"
+          },
+          {
+            "isbn10": "1984878263",
+            "isbn13": "9781984878267"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/1984878255?tag=NYTBSREV-20&tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=THE+GIFT+OF+FORGIVENESS&author=Katherine+Schwarzenegger+Pratt"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984878250"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGIFT%2BOF%2BFORGIVENESS%2FKatherine%2BSchwarzenegger%2BPratt%2F9781984878250"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9781984878250"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/034bdf2a-6bcc-5826-8db6-2920de1e7898"
+      },
+      {
+        "rank": 15,
+        "rank_last_week": 13,
+        "weeks_on_list": 27,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1328662055",
+        "primary_isbn13": "9781328662057",
+        "publisher": "Houghton Mifflin Harcourt",
+        "description": "A psychotherapist gains unexpected insights when she becomes another therapist\u2019s patient.",
+        "price": 0,
+        "title": "MAYBE YOU SHOULD TALK TO SOMEONE",
+        "author": "Lori Gottlieb",
+        "contributor": "by Lori Gottlieb",
+        "contributor_note": "",
+        "book_image": "https:\/\/s1.nyt.com\/du\/books\/images\/9781328662057.jpg",
+        "book_image_width": 328,
+        "book_image_height": 495,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Maybe-You-Should-Talk-Someone\/dp\/1328662055?tag=NYTBS-20",
+        "age_group": "",
+        "book_review_link": "https:\/\/www.nytimes.com\/2019\/04\/16\/books\/review\/lori-gottlieb-maybe-you-should-talk-to-someone.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "",
+            "isbn13": ""
+          },
+          {
+            "isbn10": "1328662055",
+            "isbn13": "9781328662057"
+          },
+          {
+            "isbn10": "1328663043",
+            "isbn13": "9781328663047"
+          },
+          {
+            "isbn10": "0358299233",
+            "isbn13": "9780358299233"
+          },
+          {
+            "isbn10": "1799717429",
+            "isbn13": "9781799717423"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Maybe-You-Should-Talk-Someone\/dp\/1328662055?tag=NYTBS-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/buy?title=MAYBE+YOU+SHOULD+TALK+TO+SOMEONE&author=Lori+Gottlieb"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781328662057"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMAYBE%2BYOU%2BSHOULD%2BTALK%2BTO%2BSOMEONE%2FLori%2BGottlieb%2F9781328662057"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/bookshop.org\/a\/3546\/9781328662057"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/fb1ce999-e7e5-580d-8a48-9de59eab8030"
+      }
+    ],
+    "corrections": [
+      
+    ]
+  }
+}

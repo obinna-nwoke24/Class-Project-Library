@@ -1,0 +1,9 @@
+333,Julius Caesar,R,William Shakespeare,Simon & Schuster,1599
+444,To Kill A MockingBird,12/15/2014,Harper Lee,J. B. Lippincott & Co.,1960
+451,Bone,R,Jeff Smith,Image Comics,1991
+452,Captain Underpants,R,Dav Pilkey,Blue Sky and Scholastic,1997
+453,Big Nate,R,Lincoln Peirce,Andrews McMeel Publishing,2019
+675,On China,R,Henry Kissinger,Penguin Press,2011
+523,The Fortune Cookie Chronicles,R,Jennifer Lee,Grand Central Pub,2008
+777,Diary of a Wimpy Kid,R,Jeff Kinney,Amulet Books,2007
+754,Bury My Heart At Wounded Knee,R,Dee Brown,New York: Holt and Rinehart & Winston,1970
